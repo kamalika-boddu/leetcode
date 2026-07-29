@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kamalika-boddu/leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/kamalika-boddu/leetcode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kamalika-boddu/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
