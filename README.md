@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kamalika-boddu/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalika-boddu/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/kamalika-boddu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kamalika-boddu/leetcode/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalika-boddu/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kamalika-boddu/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
