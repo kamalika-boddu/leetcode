@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kamalika-boddu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kamalika-boddu/leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/kamalika-boddu/leetcode/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -85,4 +86,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kamalika-boddu/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/kamalika-boddu/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
