@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kamalika-boddu/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kamalika-boddu/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalika-boddu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kamalika-boddu/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/kamalika-boddu/leetcode/tree/master/0053-maximum-subarray) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kamalika-boddu/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kamalika-boddu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kamalika-boddu/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalika-boddu/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kamalika-boddu/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
