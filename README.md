@@ -19,6 +19,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/kamalika-boddu/leetcode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/kamalika-boddu/leetcode/tree/master/0326-power-of-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
