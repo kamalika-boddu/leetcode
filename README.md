@@ -100,6 +100,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/kamalika-boddu/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kamalika-boddu/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/kamalika-boddu/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kamalika-boddu/leetcode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kamalika-boddu/leetcode/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kamalika-boddu/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
