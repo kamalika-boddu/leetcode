@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2325-decode-the-message](https://github.com/kamalika-boddu/leetcode/tree/master/2325-decode-the-message) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0344-reverse-string](https://github.com/kamalika-boddu/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kamalika-boddu/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kamalika-boddu/leetcode/tree/master/0392-is-subsequence) |
+| [2325-decode-the-message](https://github.com/kamalika-boddu/leetcode/tree/master/2325-decode-the-message) |
 ## Binary Search
 |  |
 | ------- |
