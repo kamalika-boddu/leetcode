@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/kamalika-boddu/leetcode/tree/master/0409-longest-palindrome) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1399-count-largest-group](https://github.com/kamalika-boddu/leetcode/tree/master/1399-count-largest-group) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2325-decode-the-message](https://github.com/kamalika-boddu/leetcode/tree/master/2325-decode-the-message) |
 ## Math
@@ -38,6 +39,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/kamalika-boddu/leetcode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/kamalika-boddu/leetcode/tree/master/0326-power-of-three) |
+| [1399-count-largest-group](https://github.com/kamalika-boddu/leetcode/tree/master/1399-count-largest-group) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kamalika-boddu/leetcode/tree/master/0169-majority-element) |
+| [1399-count-largest-group](https://github.com/kamalika-boddu/leetcode/tree/master/1399-count-largest-group) |
 ## Recursion
 |  |
 | ------- |
