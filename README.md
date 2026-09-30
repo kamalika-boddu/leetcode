@@ -22,6 +22,7 @@
 | [0704-binary-search](https://github.com/kamalika-boddu/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kamalika-boddu/leetcode/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kamalika-boddu/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kamalika-boddu/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kamalika-boddu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/kamalika-boddu/leetcode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kamalika-boddu/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Greedy
 |  |
 | ------- |
