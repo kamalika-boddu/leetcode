@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/kamalika-boddu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/kamalika-boddu/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/kamalika-boddu/leetcode/tree/master/0283-move-zeroes) |
+| [0598-range-addition-ii](https://github.com/kamalika-boddu/leetcode/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/kamalika-boddu/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kamalika-boddu/leetcode/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamalika-boddu/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/kamalika-boddu/leetcode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/kamalika-boddu/leetcode/tree/master/0326-power-of-three) |
+| [0598-range-addition-ii](https://github.com/kamalika-boddu/leetcode/tree/master/0598-range-addition-ii) |
 | [1399-count-largest-group](https://github.com/kamalika-boddu/leetcode/tree/master/1399-count-largest-group) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kamalika-boddu/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
