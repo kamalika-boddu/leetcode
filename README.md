@@ -98,6 +98,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/kamalika-boddu/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/kamalika-boddu/leetcode/tree/master/0326-power-of-three) |
 ## Counting Sort
 |  |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kamalika-boddu/leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/kamalika-boddu/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
